@@ -1,2 +1,2 @@
 # Popcorn OS
-Simplistic OS made using OSKit
+Simplistic OS made using COSMOS

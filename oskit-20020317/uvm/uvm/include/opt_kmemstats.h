@@ -1,1 +1,0 @@
-/* option `KMEMSTATS' not defined */

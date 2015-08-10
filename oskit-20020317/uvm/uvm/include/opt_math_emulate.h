@@ -1,1 +1,0 @@
-#define	MATH_EMULATE	1

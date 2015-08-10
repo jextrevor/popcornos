@@ -1,1 +1,0 @@
-/* option `MULTIPROCESSOR' not defined */

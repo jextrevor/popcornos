@@ -1,1 +1,0 @@
-#undef	COMPAT_FREEBSD

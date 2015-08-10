@@ -1,1 +1,0 @@
-#undef	USER_LDT
